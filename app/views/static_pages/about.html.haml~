@@ -1,3 +1,14 @@
+= provide(:title, 'About Us')
+
+
+!!! 5
+%html
+  %head
+    %title 
+      Ruby on Rails Tutorial Sample App 
+      \| 
+      = yield(:title)
+
 %h1 About Us
 %p 
   The

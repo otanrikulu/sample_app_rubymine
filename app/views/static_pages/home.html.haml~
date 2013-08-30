@@ -1,13 +1,4 @@
 = provide(:title, 'Home')
-
-
-!!! 5
-%html
-  %head
-    %title 
-      Ruby on Rails Tutorial Sample App 
-      \| 
-      = yield(:title)
   
 %h1 Sample App
 %p 
