@@ -26,7 +26,7 @@ def secure_token
   end
 end
 
-# SampleApp::Application.config.secret_key_base = secure_token
+SampleApp::Application.config.secret_key_base = secure_token
 SampleApp::Application.config.secret_token = ENV['SECRET_TOKEN']
 
 # SampleApp::Application.config.secret_key_base = 'e1bdb92bdde8b55e63da752c8ff31127ba4d99a209587a565655f0ada4674302ff182ea338566361aa0403c7c44ccb091cefdfbcd61c5beb7dbfee9607aa1d05'

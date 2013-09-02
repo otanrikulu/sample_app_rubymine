@@ -16,5 +16,5 @@
 /tmp
 
 # Ignore secret token file
-# secret_token.rb
+secret_token.rb
 .env
