@@ -9,7 +9,7 @@ class UsersController < ApplicationController
   end
 
   def create
-  	@user = User.new(user_params)
+  	@user = User.new(user_params) #Using strong parameters in the create action
   	# The statement "@user = User.new(params[:user])" is the same thing as the following...
   	# @user = User.new(name: "Foo Bar", email: "foo@invalid", password: "foo", password_confirmation: "bar")
   	# params[:user] is the hash of user attributes. params{} is a hash of user{} hash.
@@ -19,7 +19,8 @@ class UsersController < ApplicationController
   	if @user.save
   		# we can omit the user_url in the redirect, 
   		# writing simply "redirect_to @user" to redirect to the user "show" page
-  		redirect_to @user
+  		flash[:success] = "Welcome to the Sample App!"
+      redirect_to @user
   	else
   		render 'new'
   	end

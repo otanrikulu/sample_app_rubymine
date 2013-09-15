@@ -1,4 +1,4 @@
-= if @user.errors.any?
+- if @user.errors.any?
   %div#error_explanation
     %div.alert.alert-error
       The form contains #{pluralize(@user.errors.count, "error")}.
