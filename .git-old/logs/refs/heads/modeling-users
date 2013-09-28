@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 219f38bae944cc6405eec500c67a4e1fb2cb4bb0 Okan Tanrikulu <motanrikulu@gmail.com> 1378162746 -0700	branch: Created from HEAD
+219f38bae944cc6405eec500c67a4e1fb2cb4bb0 2bdfe02b40a84d8cb2e5d4aa674d1fe4dc539c4d Okan Tanrikulu <motanrikulu@gmail.com> 1378168844 -0700	commit: Make a basic User model - 6.2.5
+2bdfe02b40a84d8cb2e5d4aa674d1fe4dc539c4d dcf2a339ea0d6d17c95914fedb795c487ca92af7 Okan Tanrikulu <motanrikulu@gmail.com> 1378344165 -0700	commit: Make a basic User model (including secure passwords)

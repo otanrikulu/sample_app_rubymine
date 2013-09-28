@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 37eecb485063c2d86d36730b98d97404a7060401 Okan Tanrikulu <motanrikulu@gmail.com> 1377719313 -0700	branch: Created from HEAD
+37eecb485063c2d86d36730b98d97404a7060401 d4e56f0800819a21d70787d893adf0e7d605845c Okan Tanrikulu <motanrikulu@gmail.com> 1377739256 -0700	commit: Add a StaticPages controller
+d4e56f0800819a21d70787d893adf0e7d605845c 9b71a989ed383c2f48d692740ad1e41eb6498a04 Okan Tanrikulu <motanrikulu@gmail.com> 1377743175 -0700	commit: Static pages: home & help
+9b71a989ed383c2f48d692740ad1e41eb6498a04 a03c7bb8baa7b037d4ba20ee6911c2f4310c2c58 Okan Tanrikulu <motanrikulu@gmail.com> 1377807774 -0700	commit: Added About page

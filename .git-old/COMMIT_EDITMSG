@@ -1,0 +1,14 @@
+sign-in-out
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch sign-in-out
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	modified:   app/assets/javascripts/application.js
+#	modified:   app/controllers/sessions_controller.rb
+#	modified:   app/helpers/sessions_helper.rb
+#	modified:   app/models/user.rb
+#	modified:   app/views/layouts/_header.html.haml
+#	modified:   spec/models/user_spec.rb
+#

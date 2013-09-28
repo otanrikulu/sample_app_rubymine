@@ -1,0 +1,65 @@
+0000000000000000000000000000000000000000 f8ed5e445596e8fef8a3f110f698ac2e60d2b197 Okan Tanrikulu <motanrikulu@gmail.com> 1377705025 -0700	commit (initial): Initial commit
+f8ed5e445596e8fef8a3f110f698ac2e60d2b197 37eecb485063c2d86d36730b98d97404a7060401 Okan Tanrikulu <motanrikulu@gmail.com> 1377705540 -0700	commit: Improve the README
+37eecb485063c2d86d36730b98d97404a7060401 37eecb485063c2d86d36730b98d97404a7060401 Okan Tanrikulu <motanrikulu@gmail.com> 1377719313 -0700	checkout: moving from master to static-pages
+37eecb485063c2d86d36730b98d97404a7060401 d4e56f0800819a21d70787d893adf0e7d605845c Okan Tanrikulu <motanrikulu@gmail.com> 1377739256 -0700	commit: Add a StaticPages controller
+d4e56f0800819a21d70787d893adf0e7d605845c 9b71a989ed383c2f48d692740ad1e41eb6498a04 Okan Tanrikulu <motanrikulu@gmail.com> 1377743175 -0700	commit: Static pages: home & help
+9b71a989ed383c2f48d692740ad1e41eb6498a04 37eecb485063c2d86d36730b98d97404a7060401 Okan Tanrikulu <motanrikulu@gmail.com> 1377743196 -0700	checkout: moving from static-pages to master
+37eecb485063c2d86d36730b98d97404a7060401 9b71a989ed383c2f48d692740ad1e41eb6498a04 Okan Tanrikulu <motanrikulu@gmail.com> 1377743205 -0700	merge static-pages: Fast-forward
+9b71a989ed383c2f48d692740ad1e41eb6498a04 9b71a989ed383c2f48d692740ad1e41eb6498a04 Okan Tanrikulu <motanrikulu@gmail.com> 1377799793 -0700	checkout: moving from master to static-pages
+9b71a989ed383c2f48d692740ad1e41eb6498a04 a03c7bb8baa7b037d4ba20ee6911c2f4310c2c58 Okan Tanrikulu <motanrikulu@gmail.com> 1377807774 -0700	commit: Added About page
+a03c7bb8baa7b037d4ba20ee6911c2f4310c2c58 9b71a989ed383c2f48d692740ad1e41eb6498a04 Okan Tanrikulu <motanrikulu@gmail.com> 1377807898 -0700	checkout: moving from static-pages to master
+9b71a989ed383c2f48d692740ad1e41eb6498a04 a03c7bb8baa7b037d4ba20ee6911c2f4310c2c58 Okan Tanrikulu <motanrikulu@gmail.com> 1377807915 -0700	merge static-pages: Fast-forward
+a03c7bb8baa7b037d4ba20ee6911c2f4310c2c58 354ffbf8b228579336f963f43f9714776507e958 Okan Tanrikulu <motanrikulu@gmail.com> 1377818641 -0700	commit: Working up to 3-3-4
+354ffbf8b228579336f963f43f9714776507e958 a03c7bb8baa7b037d4ba20ee6911c2f4310c2c58 Okan Tanrikulu <motanrikulu@gmail.com> 1377878020 -0700	checkout: moving from master to static-pages
+a03c7bb8baa7b037d4ba20ee6911c2f4310c2c58 354ffbf8b228579336f963f43f9714776507e958 Okan Tanrikulu <motanrikulu@gmail.com> 1377879297 -0700	checkout: moving from static-pages to master
+354ffbf8b228579336f963f43f9714776507e958 f82e75d99186dfd9ea1106377d54f6086e47ae3c Okan Tanrikulu <motanrikulu@gmail.com> 1377880148 -0700	commit: layout
+f82e75d99186dfd9ea1106377d54f6086e47ae3c 54ef9b7f1ea681c1a80cc3062cea56cd30aaea89 Okan Tanrikulu <motanrikulu@gmail.com> 1377894761 -0700	commit: Finish static pages w/ help & about us tests failing by error
+54ef9b7f1ea681c1a80cc3062cea56cd30aaea89 24af4c815eeb38b6e27eedeec338a6dd6dc62e2a Okan Tanrikulu <motanrikulu@gmail.com> 1377895753 -0700	commit: Finish static pages
+24af4c815eeb38b6e27eedeec338a6dd6dc62e2a 5e17d5b55150e882ece344268deec3b4128233ae Okan Tanrikulu <motanrikulu@gmail.com> 1377917608 -0700	commit: automation with Guard, speeding up with Spork server, and testing while editing with Sublime
+5e17d5b55150e882ece344268deec3b4128233ae 3d1be733aa360a36889763ce4cdae4099808d74b Okan Tanrikulu <motanrikulu@gmail.com> 1378002175 -0700	commit: modified application_helper.rb
+3d1be733aa360a36889763ce4cdae4099808d74b 60c6651bdb2f08c9a153396228adad095be01813 Okan Tanrikulu <motanrikulu@gmail.com> 1378058128 -0700	commit: Add a full_title helper
+60c6651bdb2f08c9a153396228adad095be01813 60c6651bdb2f08c9a153396228adad095be01813 Okan Tanrikulu <motanrikulu@gmail.com> 1378059142 -0700	checkout: moving from master to filling-in-layout
+60c6651bdb2f08c9a153396228adad095be01813 449747b17587caba97735436a937b29bcfab18e7 Okan Tanrikulu <motanrikulu@gmail.com> 1378090002 -0700	commit: working on section 5 - assets
+449747b17587caba97735436a937b29bcfab18e7 35f6fda5f6140085a737dfe8abdceb08e7f2a42b Okan Tanrikulu <motanrikulu@gmail.com> 1378138720 -0700	commit: up to section 5.4
+35f6fda5f6140085a737dfe8abdceb08e7f2a42b ef3712e76e959ea1b45ec9aeb2efcb643dc475b0 Okan Tanrikulu <motanrikulu@gmail.com> 1378143708 -0700	commit: Finish layout and routes
+ef3712e76e959ea1b45ec9aeb2efcb643dc475b0 60c6651bdb2f08c9a153396228adad095be01813 Okan Tanrikulu <motanrikulu@gmail.com> 1378143715 -0700	checkout: moving from filling-in-layout to master
+60c6651bdb2f08c9a153396228adad095be01813 ef3712e76e959ea1b45ec9aeb2efcb643dc475b0 Okan Tanrikulu <motanrikulu@gmail.com> 1378143734 -0700	merge filling-in-layout: Fast-forward
+ef3712e76e959ea1b45ec9aeb2efcb643dc475b0 65ff542d8125d6a9e43b452311f84af2f86be47d Okan Tanrikulu <motanrikulu@gmail.com> 1378145032 -0700	commit: token
+65ff542d8125d6a9e43b452311f84af2f86be47d 219f38bae944cc6405eec500c67a4e1fb2cb4bb0 Okan Tanrikulu <motanrikulu@gmail.com> 1378147487 -0700	commit: Finish layout and routes
+219f38bae944cc6405eec500c67a4e1fb2cb4bb0 219f38bae944cc6405eec500c67a4e1fb2cb4bb0 Okan Tanrikulu <motanrikulu@gmail.com> 1378162733 -0700	checkout: moving from master to master
+219f38bae944cc6405eec500c67a4e1fb2cb4bb0 219f38bae944cc6405eec500c67a4e1fb2cb4bb0 Okan Tanrikulu <motanrikulu@gmail.com> 1378162746 -0700	checkout: moving from master to modeling-users
+219f38bae944cc6405eec500c67a4e1fb2cb4bb0 219f38bae944cc6405eec500c67a4e1fb2cb4bb0 Okan Tanrikulu <motanrikulu@gmail.com> 1378168714 -0700	checkout: moving from modeling-users to master
+219f38bae944cc6405eec500c67a4e1fb2cb4bb0 219f38bae944cc6405eec500c67a4e1fb2cb4bb0 Okan Tanrikulu <motanrikulu@gmail.com> 1378168789 -0700	checkout: moving from master to modeling-users
+219f38bae944cc6405eec500c67a4e1fb2cb4bb0 2bdfe02b40a84d8cb2e5d4aa674d1fe4dc539c4d Okan Tanrikulu <motanrikulu@gmail.com> 1378168844 -0700	commit: Make a basic User model - 6.2.5
+2bdfe02b40a84d8cb2e5d4aa674d1fe4dc539c4d 219f38bae944cc6405eec500c67a4e1fb2cb4bb0 Okan Tanrikulu <motanrikulu@gmail.com> 1378168867 -0700	checkout: moving from modeling-users to master
+219f38bae944cc6405eec500c67a4e1fb2cb4bb0 2bdfe02b40a84d8cb2e5d4aa674d1fe4dc539c4d Okan Tanrikulu <motanrikulu@gmail.com> 1378168874 -0700	merge modeling-users: Fast-forward
+2bdfe02b40a84d8cb2e5d4aa674d1fe4dc539c4d 2bdfe02b40a84d8cb2e5d4aa674d1fe4dc539c4d Okan Tanrikulu <motanrikulu@gmail.com> 1378247745 -0700	checkout: moving from master to modeling-users
+2bdfe02b40a84d8cb2e5d4aa674d1fe4dc539c4d dcf2a339ea0d6d17c95914fedb795c487ca92af7 Okan Tanrikulu <motanrikulu@gmail.com> 1378344165 -0700	commit: Make a basic User model (including secure passwords)
+dcf2a339ea0d6d17c95914fedb795c487ca92af7 2bdfe02b40a84d8cb2e5d4aa674d1fe4dc539c4d Okan Tanrikulu <motanrikulu@gmail.com> 1378344180 -0700	checkout: moving from modeling-users to master
+2bdfe02b40a84d8cb2e5d4aa674d1fe4dc539c4d dcf2a339ea0d6d17c95914fedb795c487ca92af7 Okan Tanrikulu <motanrikulu@gmail.com> 1378344189 -0700	merge modeling-users: Fast-forward
+dcf2a339ea0d6d17c95914fedb795c487ca92af7 dcf2a339ea0d6d17c95914fedb795c487ca92af7 Okan Tanrikulu <motanrikulu@gmail.com> 1378396436 -0700	checkout: moving from master to master
+dcf2a339ea0d6d17c95914fedb795c487ca92af7 dcf2a339ea0d6d17c95914fedb795c487ca92af7 Okan Tanrikulu <motanrikulu@gmail.com> 1378396453 -0700	checkout: moving from master to sign-up
+dcf2a339ea0d6d17c95914fedb795c487ca92af7 609791f49d0ac8a95dfebdee7c2e796010c41de9 Okan Tanrikulu <motanrikulu@gmail.com> 1378481752 -0700	commit: section 7 - to be continued
+609791f49d0ac8a95dfebdee7c2e796010c41de9 dcf2a339ea0d6d17c95914fedb795c487ca92af7 Okan Tanrikulu <motanrikulu@gmail.com> 1378481760 -0700	checkout: moving from sign-up to master
+dcf2a339ea0d6d17c95914fedb795c487ca92af7 609791f49d0ac8a95dfebdee7c2e796010c41de9 Okan Tanrikulu <motanrikulu@gmail.com> 1378481767 -0700	merge sign-up: Fast-forward
+609791f49d0ac8a95dfebdee7c2e796010c41de9 609791f49d0ac8a95dfebdee7c2e796010c41de9 Okan Tanrikulu <motanrikulu@gmail.com> 1378503688 -0700	checkout: moving from master to sign-up
+609791f49d0ac8a95dfebdee7c2e796010c41de9 c88e26c7c1eec2c515edc8ac717091b5b1c0b1c2 Okan Tanrikulu <motanrikulu@gmail.com> 1378510549 -0700	commit: working on user signup form
+c88e26c7c1eec2c515edc8ac717091b5b1c0b1c2 609791f49d0ac8a95dfebdee7c2e796010c41de9 Okan Tanrikulu <motanrikulu@gmail.com> 1378510556 -0700	checkout: moving from sign-up to master
+609791f49d0ac8a95dfebdee7c2e796010c41de9 c88e26c7c1eec2c515edc8ac717091b5b1c0b1c2 Okan Tanrikulu <motanrikulu@gmail.com> 1378510566 -0700	merge sign-up: Fast-forward
+c88e26c7c1eec2c515edc8ac717091b5b1c0b1c2 c88e26c7c1eec2c515edc8ac717091b5b1c0b1c2 Okan Tanrikulu <motanrikulu@gmail.com> 1378573414 -0700	checkout: moving from master to sign-up
+c88e26c7c1eec2c515edc8ac717091b5b1c0b1c2 d2b68f454cc823298909f7584081656f7b4bc714 Okan Tanrikulu <motanrikulu@gmail.com> 1378579300 -0700	commit: still working on section 7
+d2b68f454cc823298909f7584081656f7b4bc714 c88e26c7c1eec2c515edc8ac717091b5b1c0b1c2 Okan Tanrikulu <motanrikulu@gmail.com> 1378579306 -0700	checkout: moving from sign-up to master
+c88e26c7c1eec2c515edc8ac717091b5b1c0b1c2 d2b68f454cc823298909f7584081656f7b4bc714 Okan Tanrikulu <motanrikulu@gmail.com> 1378579316 -0700	merge sign-up: Fast-forward
+d2b68f454cc823298909f7584081656f7b4bc714 d2b68f454cc823298909f7584081656f7b4bc714 Okan Tanrikulu <motanrikulu@gmail.com> 1379172425 -0700	checkout: moving from master to sign-up
+d2b68f454cc823298909f7584081656f7b4bc714 f40167c6a62b2cf0472685db2bd1e76571692cab Okan Tanrikulu <motanrikulu@gmail.com> 1379214165 -0700	commit: Finish user signup
+f40167c6a62b2cf0472685db2bd1e76571692cab d2b68f454cc823298909f7584081656f7b4bc714 Okan Tanrikulu <motanrikulu@gmail.com> 1379214173 -0700	checkout: moving from sign-up to master
+d2b68f454cc823298909f7584081656f7b4bc714 f40167c6a62b2cf0472685db2bd1e76571692cab Okan Tanrikulu <motanrikulu@gmail.com> 1379214184 -0700	merge sign-up: Fast-forward
+f40167c6a62b2cf0472685db2bd1e76571692cab 5d238ba4a55a68d2227c31d61dcf8dd320735480 Okan Tanrikulu <motanrikulu@gmail.com> 1379260303 -0700	commit: Add SSL in production
+5d238ba4a55a68d2227c31d61dcf8dd320735480 224cecb5e037b6322602eadef6433a8531bf867c Okan Tanrikulu <motanrikulu@gmail.com> 1379268466 -0700	commit: Final Chapter 7
+224cecb5e037b6322602eadef6433a8531bf867c 224cecb5e037b6322602eadef6433a8531bf867c Okan Tanrikulu <motanrikulu@gmail.com> 1379712239 -0700	checkout: moving from master to sign-in-out
+224cecb5e037b6322602eadef6433a8531bf867c 440cabdd8da6432fcf8ecf4c8859c933a2c7b05c Okan Tanrikulu <motanrikulu@gmail.com> 1379717432 -0700	commit: Finish sign in
+440cabdd8da6432fcf8ecf4c8859c933a2c7b05c 224cecb5e037b6322602eadef6433a8531bf867c Okan Tanrikulu <motanrikulu@gmail.com> 1379717442 -0700	checkout: moving from sign-in-out to master
+224cecb5e037b6322602eadef6433a8531bf867c 440cabdd8da6432fcf8ecf4c8859c933a2c7b05c Okan Tanrikulu <motanrikulu@gmail.com> 1379717452 -0700	merge sign-in-out: Fast-forward
+440cabdd8da6432fcf8ecf4c8859c933a2c7b05c 440cabdd8da6432fcf8ecf4c8859c933a2c7b05c Okan Tanrikulu <motanrikulu@gmail.com> 1380232720 -0700	checkout: moving from master to sign-in-out
+440cabdd8da6432fcf8ecf4c8859c933a2c7b05c abe7876aba470aaf46ea7da6e05acdba6dadb917 Okan Tanrikulu <motanrikulu@gmail.com> 1380236516 -0700	commit: Sign-in-out
+abe7876aba470aaf46ea7da6e05acdba6dadb917 0d543acb9ce958351c77ee7fa21085a4dd8aa342 Okan Tanrikulu <motanrikulu@gmail.com> 1380324367 -0700	commit: sign-in-out
